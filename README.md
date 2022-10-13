@@ -1,5 +1,4 @@
-# How to Get Your Facebook Data
-How do we actually get our hands on our Facebook data? Well, it’s actually easier than you might think. As of right now (August 20th, 2018), you can download your data by:
+You can download your data by:
 
 * Log into Facebook
 * Click settings
