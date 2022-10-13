@@ -1,4 +1,5 @@
-You can download your data by:
+# How to Get Your Facebook Data
+You can download your data by by following these steps:
 
 * Log into Facebook
 * Click settings
